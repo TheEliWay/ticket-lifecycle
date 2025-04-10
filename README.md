@@ -1,5 +1,5 @@
-<![image](https://github.com/user-attachments/assets/dc366512-e4a1-4028-9e1b-1387d4b0fd9d)
-/>
+![image](https://github.com/user-attachments/assets/dc366512-e4a1-4028-9e1b-1387d4b0fd9d)
+
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
